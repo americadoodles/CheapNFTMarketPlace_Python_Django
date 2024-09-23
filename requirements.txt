@@ -1,0 +1,9 @@
+uvicorn
+django
+djangorestframework
+pydantic 
+alembic 
+psycopg2
+itsdangerous
+pydantic[email]
+web3
